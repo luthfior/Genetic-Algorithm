@@ -1,2 +1,3 @@
-# Genetic-Algorithm
-A Genetic Algorithm on an image built with Python 
+Nama : Luthfi Ramdhani
+NIM : 2070231098
+Kelas/Jurusan : 2070231098
